@@ -1,0 +1,4 @@
+Elida status
+Python - Examanes de prueba, 1hr
+Jenkins - topic uno dos tres, 2hr
+Java - topic cuatro cinco seis, 3hr
